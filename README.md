@@ -15,5 +15,12 @@
 - Completed within ~8 hours
 ---
 <p align="center">
-  <img width="270" height="545" alt="pocket calculator showcase image" src="https://github.com/user-attachments/assets/10172aa4-19b6-4ace-9f45-39fb38560bde" />
+  
 </p>
+<table>
+  <tr>
+    <td>&emsp;&emsp;&emsp;&emsp;<img width="270" height="545" alt="pocket calculator showcase image" src="https://github.com/user-attachments/assets/10172aa4-19b6-4ace-9f45-39fb38560bde" />&emsp;&emsp;&emsp;&emsp;</td>
+    <td>&emsp;&emsp;&emsp;&emsp;<img width="268" height="514" alt="pocket calculator showcase video" src="https://github.com/user-attachments/assets/3d3c2ba2-4f5c-439f-a3a0-64a23eb786fd" />&emsp;&emsp;&emsp;&emsp;</td>
+  </tr>
+</table>
+
