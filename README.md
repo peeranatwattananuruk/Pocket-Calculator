@@ -1,6 +1,6 @@
 # Pocket Calculator
 ---
-## A barebones calculator desktop application that resembles my physical TI-30XIIS calculator.
+## A barebones calculator application that resembles my physical TI-30XIIS calculator.
 ## This application is so tiny; one could say that it's pocket-sized.
 ---
 ### To launch the application: run **main.py** on your preferred editor :8
