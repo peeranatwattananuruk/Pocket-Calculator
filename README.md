@@ -4,6 +4,7 @@
 ## This application is so tiny; one could say that it's pocket-sized.
 ---
 ### To launch the application: run **main.py** on your preferred editor :8
+### and don't forget to install the necessary packages!
 ---
 #### Made Using:
 - Editor: VS Code
